@@ -21,4 +21,7 @@ Features:
 - Dynamic Learning Rate Scheduler and Early Stopping during training
 
  #How to run:
-- 
+- 1. Clone the repository:
+     https://github.com/azragirgin/skin-cancer-classification.git
+ - 2.On the terminal run:
+   streamlit run "MLProject.py"
