@@ -25,3 +25,4 @@ Features:
      https://github.com/azragirgin/skin-cancer-classification.git
  - 2.On the terminal run:
    streamlit run "MLProject.py"
+   !!Please note that, wait until every function loads correctly vefore clicking to anything, it may lead to causing errors if trying to interact before the model is properly loaded.
